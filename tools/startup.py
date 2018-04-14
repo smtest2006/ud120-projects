@@ -1,4 +1,5 @@
 #!/usr/bin/python
+print("starting script")
 
 print
 print("checking for nltk")
